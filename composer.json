@@ -1,7 +1,7 @@
 {
-	"name": "flexcoders/opauth-ldap",
-	"description": "Ldap strategy for Opauth",
-	"keywords": ["authentication","auth","active directory", "AD"],
+	"name": "flexcoders/opauth-radius",
+	"description": "Radius strategy for Opauth",
+	"keywords": ["authentication","auth","radius", "opauth"],
 	"homepage": "http://flexcoders.co.uk",
 	"license": "MIT",
 	"authors": [
