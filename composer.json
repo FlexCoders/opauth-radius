@@ -1,0 +1,23 @@
+{
+	"name": "flexcoders/opauth-ldap",
+	"description": "Ldap strategy for Opauth",
+	"keywords": ["authentication","auth","active directory", "AD"],
+	"homepage": "http://flexcoders.co.uk",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Harro Verton",
+			"email": "harro.verton@flexcoders.co.uk",
+			"homepage": "http://flexcoders.co.uk"
+		}
+	],
+	"require": {
+		"php": ">=5.2.0",
+		"opauth/opauth": ">=0.2.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"": "."
+		}
+	}
+}
